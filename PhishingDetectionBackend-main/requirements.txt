@@ -1,0 +1,7 @@
+pandas
+python-whois
+beautifulsoup4
+requests
+xgboost
+scikit-learn
+pymongo
